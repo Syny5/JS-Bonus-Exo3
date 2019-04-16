@@ -1,0 +1,22 @@
+h1{
+  font-size: 46px;
+  text-decoration: underline;
+}
+
+#button{
+  background-color: green;
+  border-color: green;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+}
+
+button:hover{
+  transform: scale(1.10);
+}
